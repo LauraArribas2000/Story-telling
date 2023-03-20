@@ -1,0 +1,14 @@
+*{
+    margin: 15px;
+
+}
+
+h1 {
+    font-size: 5rem;
+}
+
+p, label, footer {
+  line-height: 1.5;
+  font-size: 1.6rem;
+  text-align: justify;
+}
